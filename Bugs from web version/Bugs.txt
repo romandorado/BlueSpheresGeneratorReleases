@@ -1,0 +1,1 @@
+1 => 004 image has 9 red spheres in wrong position => Solved
